@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Thilshath</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Fix-It E-commerce Website**
 
-- 🌱 I’m currently learning **CNN**
+- 🌱 I’m currently learning **ML model optimization**
 
 - 📫 How to reach me **tshmohamed3793@gmail.com**
 
